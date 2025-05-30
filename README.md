@@ -16,7 +16,7 @@
 
 <!-- About Me -->
 ### About Me
-- 👯 I’m actively looking for internships in the field of Full-Stack development.**
+- 👯 I’m actively looking for internships in the field of **Full-Stack development.**
 - 💬 Ask me about **JavaScript, React, Node.js, or anything tech!**
 - 📫 How to reach me: [Email](mailto:sakshamgoyal2k4@gmail.com)
 - ⚡ Fun fact: I love **hitting the Gym!**
