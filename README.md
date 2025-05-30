@@ -57,7 +57,7 @@
 
 <!-- Contact -->
 ### Let's Connect!
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/saksham021012) or send me an email at [sakshamgoyal2k4@gmail.com](mailto:sakshamgoyal2k4@gmail.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/saksham-goyal79/) or send me an email at [sakshamgoyal2k4@gmail.com](mailto:sakshamgoyal2k4@gmail.com).
 
 ---
 
