@@ -50,7 +50,7 @@
 <!-- Projects -->
 ### Featured Projects
 - [StudyNotion](https://github.com/saksham021012/StudyNotion) - Full-Stack edTech platform.
-- [TravelSync](https://github.com/saksham021012/TravelSync) -  Intelligent Travel Assistant Backend.
+- [TravelSync](https://github.com/saksham021012/TravelSync) -  Intelligent Travel Assistant.
 - [MegaBlog](https://github.com/saksham021012/MegaBlog) - Blogging Application.
 
 ---
