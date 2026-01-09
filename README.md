@@ -42,10 +42,9 @@
 
 <!-- GitHub Stats -->
 ### GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saksham021012&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham021012&layout=compact&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham021012&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham021012&layout=compact&theme=radical)
+
 
 ---
 
