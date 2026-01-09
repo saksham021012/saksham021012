@@ -50,11 +50,11 @@
 ---
 
 <!-- Projects -->
-### Featured Projects
+### Featured Project
+- [SpaceX Mission Explorer](https://github.com/saksham021012/atmosly-spacex) - Explore All SpaceX missions. Modern frontend with memoisation, skeleton loading and performance focused components.
 - [StudyNotion](https://github.com/saksham021012/StudyNotion) - Full-Stack edTech platform.
 - [TravelSync](https://github.com/saksham021012/TravelSync) -  Intelligent Travel Assistant.
 - [Promtopia](https://github.com/saksham021012/promtopia) - Smart AI-prompts sharing platform
-- [SpaceX Mission Explorer](https://github.com/saksham021012/atmosly-spacex) - Explore All SpaceX missions.
 - [Taskify](https://github.com/saksham021012/taskify) - Manage tasks effortlessly.
 - [MegaBlog](https://github.com/saksham021012/MegaBlog) - Blogging Application.
 
